@@ -1,0 +1,20 @@
+{
+  "id": 793,
+  "title": "Vehicle Cabin Guardian Blind Spot Alerts",
+  "repository_slug": "vehicle-cabin-guardian-blind-spot-alerts",
+  "category": "Smart Vehicles",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "IMU",
+    "buzzer"
+  ],
+  "scope": "Build a smart vehicles prototype that uses IMU, buzzer to detect objects in blind-spot zones. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Blind Spot Alerts demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/vehicle-cabin-guardian-blind-spot-alerts/vehicle-cabin-guardian-blind-spot-alerts.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
